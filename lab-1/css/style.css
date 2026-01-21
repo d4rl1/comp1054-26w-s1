@@ -1,0 +1,40 @@
+*{
+    font-family: "Google Sans Code", sans-serif;
+}
+h1{
+    border: 1px solid black;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    padding: 0;
+    margin: 0;
+    font-weight: 1000;
+    width: 90%;
+}
+header p{
+    font-size: 1.7rem;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    width: 90%;
+    margin: 0 auto;
+    padding: 0;
+    column-count: 3;
+}
+h4{
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+main p{
+    margin: 0;
+    padding: 0;
+}
